@@ -2,7 +2,7 @@ class HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello, from ubuntu server"; 
+        System.out.println("Hello, from ubuntu server 1"; 
 
     }
 
